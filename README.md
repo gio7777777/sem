@@ -1,2 +1,2 @@
-[![LICENSE](https://img.shields.io/github/license/<github-username>/sem.svg?style=flat-square)](https://github.com/gio7777777/sem/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/gio7777777/sem.svg?style=flat-square)](https://github.com/gio7777777/sem/blob/master/LICENSE)
 ![workflow](https://github.com/gio7777777/sem/actions/workflows/main.yml/badge.svg)
